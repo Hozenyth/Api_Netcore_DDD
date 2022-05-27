@@ -1,4 +1,4 @@
-<h1>O que é DDD</h1>
+<h1>O que é DDD?</h1>
 
 - Alinhamento de código com negócio
 - Favorece reutiçização: os blocos de construção que facilitam aproveitar um mesmo conceito de domínio ou um mesmo código em vários lugares.
