@@ -1,4 +1,8 @@
-<h1>O que é DDD?</h1>
+<h1> API REST utilizando NETCore 3.1/.NET5.0- C#+Arquitetura com DDD+Entity Framework com MySQL+Swagger+AutoMapper+JWT Token </h1>
+
+Este curso tem como objetivo treinar aquitetura DDD e utilizar vários recurso em API REST.
+
+<h2>O que é DDD?</h2>
 
 - Alinhamento de código com negócio
 - Favorece reutilização: os blocos de construção que facilitam aproveitar um mesmo conceito de domínio ou um mesmo código em vários lugares.
