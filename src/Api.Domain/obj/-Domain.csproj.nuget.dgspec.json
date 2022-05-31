@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\alexa\\Curso_Api_Netcore\\src\\Api.Application\\application.csproj": {}
+    "C:\\Users\\alexa\\Curso_Api_Netcore\\src\\Api.Domain\\-Domain.csproj": {}
   },
   "projects": {
-    "C:\\Users\\alexa\\Curso_Api_Netcore\\src\\Api.Application\\application.csproj": {
+    "C:\\Users\\alexa\\Curso_Api_Netcore\\src\\Api.Domain\\-Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\alexa\\Curso_Api_Netcore\\src\\Api.Application\\application.csproj",
-        "projectName": "application",
-        "projectPath": "C:\\Users\\alexa\\Curso_Api_Netcore\\src\\Api.Application\\application.csproj",
+        "projectUniqueName": "C:\\Users\\alexa\\Curso_Api_Netcore\\src\\Api.Domain\\-Domain.csproj",
+        "projectName": "-Domain",
+        "projectPath": "C:\\Users\\alexa\\Curso_Api_Netcore\\src\\Api.Domain\\-Domain.csproj",
         "packagesPath": "C:\\Users\\alexa\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\alexa\\Curso_Api_Netcore\\src\\Api.Application\\obj\\",
+        "outputPath": "C:\\Users\\alexa\\Curso_Api_Netcore\\src\\Api.Domain\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -51,9 +51,6 @@
           "assetTargetFallback": true,
           "warn": true,
           "frameworkReferences": {
-            "Microsoft.AspNetCore.App": {
-              "privateAssets": "none"
-            },
             "Microsoft.NETCore.App": {
               "privateAssets": "all"
             }
